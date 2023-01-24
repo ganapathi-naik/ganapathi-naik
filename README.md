@@ -13,8 +13,6 @@
 
 - 💬 Ask me about ``` var topics = [ "Java", "GoLang","Spring", "AWS", "SQL" ] ```
 
-- 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
-
 - 📫 How to reach me **iamganapathinaik@gmail.com**
 
 - 📄 Know about my work & experiences [My Linkedin](https://www.linkedin.com/in/ganapathi-naik/)
