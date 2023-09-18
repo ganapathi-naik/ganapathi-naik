@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ganapathi Naik</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer at Amazon"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Senior Software Developer at Uber"</h3>
 
 ***
 
